@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Practica1React/static/css/main.705aeb9d.chunk.css",
+    "main.js": "/Practica1React/static/js/main.7656f14b.chunk.js",
+    "main.js.map": "/Practica1React/static/js/main.7656f14b.chunk.js.map",
+    "runtime-main.js": "/Practica1React/static/js/runtime-main.5d167055.js",
+    "runtime-main.js.map": "/Practica1React/static/js/runtime-main.5d167055.js.map",
+    "static/js/2.18c4e933.chunk.js": "/Practica1React/static/js/2.18c4e933.chunk.js",
+    "static/js/2.18c4e933.chunk.js.map": "/Practica1React/static/js/2.18c4e933.chunk.js.map",
+    "index.html": "/Practica1React/index.html",
+    "precache-manifest.c6fc55190adc7b5685f5214f9bc2af06.js": "/Practica1React/precache-manifest.c6fc55190adc7b5685f5214f9bc2af06.js",
+    "service-worker.js": "/Practica1React/service-worker.js",
+    "static/css/main.705aeb9d.chunk.css.map": "/Practica1React/static/css/main.705aeb9d.chunk.css.map",
+    "static/js/2.18c4e933.chunk.js.LICENSE.txt": "/Practica1React/static/js/2.18c4e933.chunk.js.LICENSE.txt",
+    "static/media/logoEscuela.PNG": "/Practica1React/static/media/logoEscuela.99b3fdc9.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d167055.js",
+    "static/js/2.18c4e933.chunk.js",
+    "static/css/main.705aeb9d.chunk.css",
+    "static/js/main.7656f14b.chunk.js"
+  ]
+}
